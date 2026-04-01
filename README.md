@@ -2,9 +2,14 @@
 
 ## Availability
 
-This repository contains a simplified showcase of a private project LiveScoreCounter.App currently under development.
-Full project is private. More details or code samples available upon request.
-Below is the copied content of a project's README file.
+This repository contains a simplified showcase of a private project (LiveScoreCounter.App) currently under development.<br>
+The full project is kept private as it is being actively developed with the intention of future commercialization.<br>
+More details or code samples are available upon request.<br>
+Below is an excerpt from the original project's README file.
+
+## 👨‍💻 My Role
+
+- Co-developing the application with a focus on architecture and backend logic
 
 # 📺 LiveScoreCounter.App
 
